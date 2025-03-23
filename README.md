@@ -7,8 +7,8 @@ Esse projeto visa fazer a análise exploratória dos dados da empresa Ifood, par
 Desafio proposto no curso da professora Renata Biaggi, EBA - Estatística do Básico ao Avançado no módulo de Estatística Descritiva.
 
 ## 💼 Entendimento do Negócio
-Enteder o perfil do consumidor e como ele gasta seu dinheiro na plataforma da empresa, é um ponto crucial, para melhorar a experiência do usuário e
-para técnicas de marketing melhor otimizadas.
+Enteder o perfil do consumidor e como ele gasta seu dinheiro na plataforma da empresa, é um ponto crucial para melhorar a experiência do usuário e
+para técnicas de marketing otimizadas.
 
 **Tipos de Análise Realizados:**
 - Análise Exploratória dos Dados
